@@ -1,4 +1,4 @@
-# sinon-backend-server
+# sinon-server-backend
 
 An alternative implementation of [Sinon.js](http://sinonjs.org/docs/#fakeServer) fake server that provides expectations similar to AngularJS [$httpBackend](https://docs.angularjs.org/api/ngMock/service/$httpBackend).
 
