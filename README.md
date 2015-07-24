@@ -1,6 +1,6 @@
 # sinon-backend-server
 
-An alternative implementation of [Sinon.js](https://github.com/cjohansen/Sinon.JS) fake server that provides expectations similar to AngularJS [$httpBackend](https://docs.angularjs.org/api/ngMock/service/$httpBackend).
+An alternative implementation of [Sinon.js](http://sinonjs.org/docs/#fakeServer) fake server that provides expectations similar to AngularJS [$httpBackend](https://docs.angularjs.org/api/ngMock/service/$httpBackend).
 
 ## Installation
 Include /lib/server.js file in your project.
