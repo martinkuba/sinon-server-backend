@@ -85,7 +85,7 @@ describe('using sinonServerBackend', function() {
         server.flush();
         
         callTestApi();
-        // will fail because the expectation has been fulfullied already, and 
+        // will fail because the expectation has been fulfilled already, and 
         // the second call is seen as unexpected
         server.flush();
     });
