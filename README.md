@@ -1,5 +1,7 @@
 # sinon-server-backend
 
+[![Build Status](https://travis-ci.org/martinkuba/sinon-server-backend.svg?branch=master)](https://travis-ci.org/martinkuba/sinon-server-backend)
+
 An alternative implementation of [Sinon.js](http://sinonjs.org/docs/#fakeServer) fake server that provides expectations similar to AngularJS [$httpBackend](https://docs.angularjs.org/api/ngMock/service/$httpBackend).
 
 ## Installation
